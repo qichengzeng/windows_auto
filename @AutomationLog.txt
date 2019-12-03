@@ -1,0 +1,16 @@
+2019-10-17 12:41:46.791 start_windows.py[4] <module> -> Find Control Timeout: {Name: '新建', ControlType: ButtonControl}
+2019-10-17 12:42:36.268 start_windows.py[4] <module> -> Find Control Timeout: {Name: '新建', ControlType: ButtonControl}
+2019-10-22 11:43:32.977 base_method.py[184] close -> Find Control Timeout: {Name: '启动对话框', ControlType: WindowControl}
+2019-10-22 13:52:28.447 base_method.py[184] close -> Find Control Timeout: {Name: '启动对话框', ControlType: WindowControl}
+2019-11-06 11:27:30.869 start_windows.py[6] <module> -> Find Control Timeout: {AutomationId: '1142', ControlType: ButtonControl}
+2019-11-06 11:28:18.240 start_windows.py[6] <module> -> Find Control Timeout: {AutomationId: '1142', ControlType: ButtonControl}
+2019-11-06 11:39:24.548 start_windows.py[6] <module> -> Find Control Timeout: {ControlType: ButtonControl, AutomationId: '1142'}
+2019-11-08 10:59:16.645 start_windows.py[27] <module> -> Find Control Timeout: {ControlType: ButtonControl, Name: '创建新测量 '}
+2019-11-08 11:03:11.323 start_windows.py[27] <module> -> Find Control Timeout: {ControlType: ButtonControl, Name: '创建新测量 '}
+2019-11-08 11:06:58.662 start_windows.py[19] <module> -> Find Control Timeout: {ControlType: EditControl, Name: '文件名(N):'}
+2019-11-08 15:33:56.837 start_windows.py[6] <module> -> Find Control Timeout: {Name: '新建', ControlType: ButtonControl}
+2019-11-08 15:35:41.699 start_windows.py[8] <module> -> Find Control Timeout: {ControlType: ButtonControl, Name: '新建'}
+2019-11-19 12:52:53.524 test_2.py[48] <module> -> Find Control Timeout: {ControlType: EditControl, Name: '文件名(N):'}
+2019-11-19 14:59:29.632 test_2.py[16] <module> -> Find Control Timeout: {ControlType: EditControl, AutomationId: '1022'}
+2019-11-20 15:12:11.793 test_2.py[42] <module> -> Find Control Timeout: {ControlType: TextControl, Name: 'Q00010004'}
+2019-11-21 18:46:31.501 test.py[6] <module> -> Find Control Timeout: {ControlType: EditControl, Name: '文件名(N):'}

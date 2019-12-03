@@ -1,0 +1,18 @@
+from test_locator.wby import Wby
+class NewPatientLocator:
+    dialog = (Wby.NAME, "启动对话框", 3)
+    new_loc = (Wby.NAME, "新建", 4)
+    patient_search_loc = (Wby.NAME, "患者检索", 4)
+    open_loc = (Wby.NAME, "打开", 4)
+    name_loc=(Wby.AUTOMATIONID,"1021",4)
+    man_loc=(Wby.NAME,"男",4)
+    woman_loc=(Wby.NAME,"女",4)
+    doctor_name_loc=(Wby.AUTOMATIONID,"1001",5)
+    submit_loc=(Wby.NAME,"确定",4)
+    clear_loc=(Wby.NAME,"清除",4)
+    birth_day_loc=(Wby.AUTOMATIONID,"1142",4)
+    name_input_loc=(Wby.NAME,"请输入姓名！",5)
+    doctor_name_input_loc=(Wby.NAME,"输入医生名字不能为空！",5)
+    birth_day_input_loc=(Wby.NAME,"没有选择患者出生日期",5)
+    prompt_text_loc=(Wby.AUTOMATIONID,"65535",5)
+    submit_prompt_loc=(Wby.NAME,"提示",3)

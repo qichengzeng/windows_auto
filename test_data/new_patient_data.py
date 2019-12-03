@@ -1,0 +1,12 @@
+query_prompt_name_data=[
+{"key_word":0x25,"doctor_name":"侯志明","exp":"请输入姓名！","title":"验证新建患者时候不输入姓名"}
+]
+query_prompt_birth_data=[
+{"name":"曾奇成","doctor_name":"侯志明","exp":"没有选择患者出生日期","title":"验证新建患者时候不选择出生日期"}
+]
+query_prompt_doctor_name_data=[
+ {"name":"曾奇成","key_word":0x25,"exp":"输入医生名字不能为空！","title":"验证新建患者时候不输入医生姓名"},
+]
+query_prompt_doctor_name_clear_data=[
+{"doctor_name":"侯志明","exp":"","title":"验证医生姓名的清除功能"},
+]
